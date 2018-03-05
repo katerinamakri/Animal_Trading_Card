@@ -5,7 +5,7 @@ The purpose of the challenge was to translate the card into a real website and c
 
 ![panda_img](https://user-images.githubusercontent.com/35920708/36977232-215d183a-2089-11e8-9817-631360ffcf8c.PNG)
 
-Things which was tested:
+Things which were tested:
 * The text is italicized for the animal’s interesting fact. 
 * The labels are bolded for the animal’s list items. 
 * The dots are removed from the animal’s list items. 
